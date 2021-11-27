@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/Adafruit-GFX-Library" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/Adafruit_BusIO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/Adafruit_MCP4725" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/Adafruit_SH110x" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/Bounce2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/ClickButton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/ResponsiveAnalogRead" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/TeensyDebug" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/arduino-printf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/esp8266-oled-ssd1306" vcs="Git" />
+  </component>
+</project>

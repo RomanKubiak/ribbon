@@ -10,7 +10,7 @@ set(CMAKE_SYSTEM_NAME Generic)
 set(CMAKE_C_COMPILER_WORKS 1)
 set(CMAKE_CXX_COMPILER_WORKS 1)
 
-project("RibbonT" C CXX)
+project("ribbon" C CXX)
 
 include(CMakeListsPrivate.txt)
 
@@ -30,4 +30,4 @@ add_custom_target(
     WORKING_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}
 )
 
-add_executable(Z_DUMMY_TARGET ${SRC_LIST} src/Menu.cpp include/Menu.h src/Quantize.cpp include/Quantize.h src/Granular.cpp include/Granular.h src/Manager.cpp include/Manager.h)
+add_executable(Z_DUMMY_TARGET ${SRC_LIST})
